@@ -16,3 +16,7 @@
 //= require materialize-sprockets
 //= require toastr
 //= require_tree .
+
+toastr.options = {
+  "timeOut": "3000"
+}
