@@ -12,7 +12,7 @@ gem 'dotenv-rails'
 gem 'dalli'
 gem 'thin'
 gem 'devise'
-gem 'materialize-sass'
+gem 'materialize-sass', :git => 'https://github.com/mkhairi/materialize-sass.git'
 gem 'toastr-rails'
 gem 'pry'
 gem 'sdoc', group: :doc
